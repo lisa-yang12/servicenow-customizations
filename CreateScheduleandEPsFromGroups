@@ -1,3 +1,4 @@
+//manager for the group is required.
 /*** Changes made to this script are not supported by PagerDuty ***/
 var PagerDutyProvisioning = Class.create();
 PagerDutyProvisioning.prototype = {
